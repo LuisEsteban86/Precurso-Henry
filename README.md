@@ -1,2 +1,1 @@
-# Precurso-Henry
-Este es un repositorio de prueba del modulo dos de henry
+prueba de clonar un repositorio de github hasta mi pc.
